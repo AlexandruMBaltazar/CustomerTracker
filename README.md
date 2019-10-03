@@ -8,12 +8,12 @@ I have created this in order to learn new things about java that is used in indu
 # What have I learned before doing this project
 * Wire beans together in the Spring container using Inversion of Control
 * Configure the Spring container for Dependency Injection
+* Spring MVC architectural pattern
+* MySQL  
 * Spring Java Configuration
 * Spring Annotations
-* Spring MVC architectural pattern
-* Hibernate (perform object/relational mapping with Hibernate)
+* Hibernate (ORM)
 * AOP
-* Use of Service Layer and DAO
-
+* Use of Service Layer and DAO 
 
 
