@@ -15,5 +15,6 @@ I have created this in order to learn new things about java that is used in indu
 * Hibernate (ORM)
 * AOP
 * Use of Service Layer and DAO 
+* Use Tomcat Server to run my app
 
 
